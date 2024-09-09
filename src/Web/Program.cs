@@ -22,6 +22,7 @@ using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
 
+// This is a test comment
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 
